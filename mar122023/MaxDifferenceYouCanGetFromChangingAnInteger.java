@@ -1,7 +1,8 @@
-package Mar122023;
+package mar122023;
 
 class MaxDifferenceYouCanGetFromChangingAnInteger {
     public int maxDiff(int num) {
+
 
         /*
         Given an integer num. You will apply the following steps exactly two times:
@@ -38,34 +39,40 @@ class MaxDifferenceYouCanGetFromChangingAnInteger {
 
 //        answer:
 
-        String s = String.valueOf(num);
-        char[] c = s.toCharArray();
-        int i = 0;
-        while (c[i] == '9') {
-            i++;
-        }
-        char x = c[i];
-        char y = '9';
-        for (int j = 0; j < c.length; j++) {
-            if (c[j] == x) {
-                c[j] = y;
-            }
-        }
-        int a = Integer.parseInt(String.valueOf(c));
-        i = 0;
-        while (c[i] == '1' || c[i] == '0') {
-            i++;
-        }
-        x = c[i];
-        y = '1';
-        for (int j = 0; j < c.length; j++) {
-            if (c[j] == x) {
-                c[j] = y;
-            }
-        }
-        int b = Integer.parseInt(String.valueOf(c));
-        return a - b;
+        String s = Integer.toString(num);
+        int n = s.length();
 
+        // Find the largest digit that is not 9
+        char maxChar = '9';
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) != '9') {
+                maxChar = s.charAt(i);
+                break;
+            }
+        }
+
+        // Replace all occurrences of maxChar with '9' to get the maximum possible value
+        String a = s.replaceAll(Character.toString(maxChar), "9");
+        int A = Integer.parseInt(a);
+
+        // If the first digit is not 1, replace all occurrences of the first digit with '1' to get the minimum possible value
+        // Otherwise, find the smallest digit that is not 0 or 1 and replace all occurrences of that digit with '0'
+        String b = "";
+        if (s.charAt(0) != '1') {
+            b = s.replaceAll(Character.toString(s.charAt(0)), "1");
+        } else {
+            char minChar = '0';
+            for (int i = 1; i < n; i++) {
+                if (s.charAt(i) > '0' && s.charAt(i) != '1') {
+                    minChar = s.charAt(i);
+                    break;
+                }
+            }
+            b = s.replaceAll(Character.toString(minChar), "0");
+        }
+        int B = Integer.parseInt(b);
+
+        return A - B;
     }
 
 }
