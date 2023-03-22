@@ -35,10 +35,6 @@ r
 Bmar162023/ConstructBinaryTreeFromInorderAndPostorderTraversal.java,d\b\db4e1ffb82938afc001e4b2740675bd222261042
 ^
 .mar172023/RemoveDuplicatesFromSortedArray.java,e\9\e923fd1dca017c541ef93bc31e8c9879476f7a14
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ^
 .mar172023/RemoveLetterToEqualizeFrequency.java,1\8\1887ce979ead84ae3003aa17d205dd8f99e21d89
 F
@@ -51,3 +47,5 @@ O
 mar182023/ValidParentheses.java,7\9\79c5e4e75833b70dfff478b287fad9508882ee7e
 @
 Application.java,3\b\3be2a3b4469ba10368296a42dd29baf7f6fd5403
+c
+3mar192023/DesignAddAndSearchWordsDataStructure.java,e\c\ec36e7d1f6dd7b3b224ea25efec53d8d967e6cd4
