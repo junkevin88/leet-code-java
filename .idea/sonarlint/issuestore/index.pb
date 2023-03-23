@@ -49,3 +49,7 @@ O
 Application.java,3\b\3be2a3b4469ba10368296a42dd29baf7f6fd5403
 c
 3mar192023/DesignAddAndSearchWordsDataStructure.java,e\c\ec36e7d1f6dd7b3b224ea25efec53d8d967e6cd4
+S
+#mar192023/SearchInsertPosition.java,d\4\d468e10907857dfddf22d767201dbb030e93505b
+Å
+Q.idea/sonarlint/securityhotspotstore/e/c/ec36e7d1f6dd7b3b224ea25efec53d8d967e6cd4,1\b\1b6e77cf401dfe4bb5b7e73bc4a9338f990e1d8b
