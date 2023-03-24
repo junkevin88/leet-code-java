@@ -7,10 +7,6 @@ j
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 I
 test/ApplicationTest.java,9\0\90f9571262a6e88cb3a229ac61bda612d834d4a1
-j
-:mar122023/MaxDifferenceYouCanGetFromChangingAnInteger.java,e\8\e810afdf078c71b7c323aa62eef4ceaee447e103
-`
-0mar122023/KidWithTheGreatestNumberOfCandies.java,b\5\b56817dfbd7ec9c1f61956092b2b3923d4f11523
 L
 mar132023/SymmetricTree.java,1\a\1a329c3e132e4fc176199b90a9c151cd5d40771b
 J
@@ -53,3 +49,7 @@ S
 #mar192023/SearchInsertPosition.java,d\4\d468e10907857dfddf22d767201dbb030e93505b
 Å
 Q.idea/sonarlint/securityhotspotstore/e/c/ec36e7d1f6dd7b3b224ea25efec53d8d967e6cd4,1\b\1b6e77cf401dfe4bb5b7e73bc4a9338f990e1d8b
+N
+mar202023/CanPlaceFlowers.java,4\5\4582c6da6779335829c59a67cc797a19b7076efe
+Z
+*mar202023/LongestPalindromicSubstring.java,1\b\1b41ee3f7b182b52dfd6a8ce41193b407e8e1bb1
