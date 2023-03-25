@@ -53,3 +53,17 @@ N
 mar202023/CanPlaceFlowers.java,4\5\4582c6da6779335829c59a67cc797a19b7076efe
 Z
 *mar202023/LongestPalindromicSubstring.java,1\b\1b41ee3f7b182b52dfd6a8ce41193b407e8e1bb1
+`
+0mar122023/KidWithTheGreatestNumberOfCandies.java,b\5\b56817dfbd7ec9c1f61956092b2b3923d4f11523
+j
+:mar122023/MaxDifferenceYouCanGetFromChangingAnInteger.java,e\8\e810afdf078c71b7c323aa62eef4ceaee447e103
+Å
+Q.idea/sonarlint/securityhotspotstore/d/4/d468e10907857dfddf22d767201dbb030e93505b,9\a\9a3102231dab0ad4a3c8e1885d912b6f9043d142
+Å
+Q.idea/sonarlint/securityhotspotstore/4/5/4582c6da6779335829c59a67cc797a19b7076efe,0\d\0dd0e6c70984f2a4a3d25065ed5149c8de74a00c
+Å
+Q.idea/sonarlint/securityhotspotstore/1/b/1b41ee3f7b182b52dfd6a8ce41193b407e8e1bb1,a\1\a14791f792579c95a125b2c33c5e101746870a37
+Å
+Q.idea/sonarlint/securityhotspotstore/1/b/1b6e77cf401dfe4bb5b7e73bc4a9338f990e1d8b,9\9\99ac8338e13a03cb75254e7b22480f0663a08c4a
+w
+G.idea/sonarlint/issuestore/1/b/1b6e77cf401dfe4bb5b7e73bc4a9338f990e1d8b,1\9\196ce31c0e7fe8ca6e5cf0df1cb4b3213dc06a3b
