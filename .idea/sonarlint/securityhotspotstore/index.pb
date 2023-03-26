@@ -29,8 +29,6 @@ O
 .mar172023/RemoveDuplicatesFromSortedArray.java,e\9\e923fd1dca017c541ef93bc31e8c9879476f7a14
 V
 &mar172023/ImplementTriePrefixTree.java,d\f\df449b720476e1b9b9a1637589d37b93de3cf7f0
-r
-Bmar162023/ConstructBinaryTreeFromInorderAndPostorderTraversal.java,d\b\db4e1ffb82938afc001e4b2740675bd222261042
 ^
 .mar172023/RemoveLetterToEqualizeFrequency.java,1\8\1887ce979ead84ae3003aa17d205dd8f99e21d89
 F
@@ -111,5 +109,3 @@ g
 7mar232023/NumberOfOperationsToMakeNetworkConnected.java,7\e\7e264791ab7317710ad40b0fff1aa08f72d4f991
 k
 ;mar242023/ReorderRoutesToMakeAllPathsLeadToTheCityZero.java,f\9\f94732772d17be9792a43fbc5a9358e527788677
-c
-3mar192023/DesignAddAndSearchWordsDataStructure.java,e\c\ec36e7d1f6dd7b3b224ea25efec53d8d967e6cd4
