@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë«Æâúÿÿÿÿ
+W
+java:S1854#":Remove this useless assignment to local variable "weight".(üÚ€Ş8ÛÆ¹ğ0
+[
+java:S1659">Declare "v" and all following declarations on a separate line.(—Ø8ˆÇ¹ğ0
+@
+java:S1659"#Declare "score" on a separate line.(€¯İÂ8£Ç¹ğ0
+A
+java:S1659#"$Declare "weight" on a separate line.(üÚ€Ş8ªÇ¹ğ0
+H
+java:S1481#"+Remove this unused "weight" local variable.(üÚ€Ş8­Ç¹ğ0
