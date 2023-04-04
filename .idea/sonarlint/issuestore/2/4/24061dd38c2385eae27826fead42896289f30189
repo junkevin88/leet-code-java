@@ -1,5 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şÏ¨Œøÿÿÿÿ
-u	java:S116"YRename this field "FREQUENCY_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÿ„Æ8îâÇÙó0
->
-java:S1170"!Make this final field static too.(•ÿ„Æ8öâÇÙó0
