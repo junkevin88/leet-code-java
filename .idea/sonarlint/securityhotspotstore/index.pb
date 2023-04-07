@@ -133,3 +133,11 @@ h
 8apr2023/apr022023/SuccessfulPairsOfSpellsAndPotions.java,3\4\34834639bf1ac29c74a279817a30c18b8ad1abb5
 \
 ,mar2023/mar312023/MiddleOfTheLinkedList.java,f\2\f27527e737961eb48a28b81cdae26debf9f5b313
+U
+%apr2023/apr042023/RottingOranges.java,7\c\7c790faa40ee033339f3135c06ed3fe40174ca87
+_
+/apr2023/apr042023/OptimalPartitionOfString.java,5\8\580141fbe473f04a78eb44b00654c339a0005bff
+O
+apr2023/apr042023/Matrix01.java,7\7\77d784065e50e06d607a967929387f7d81469bca
+K
+apr2023/apr032023/Node.java,4\1\418cac342a26a2785884d048d1bb98c64998b928
