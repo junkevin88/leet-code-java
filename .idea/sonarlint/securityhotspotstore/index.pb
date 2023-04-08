@@ -141,3 +141,11 @@ O
 apr2023/apr042023/Matrix01.java,7\7\77d784065e50e06d607a967929387f7d81469bca
 K
 apr2023/apr032023/Node.java,4\1\418cac342a26a2785884d048d1bb98c64998b928
+l
+<apr2023/apr032023/PopulatingNextRightPointersInEachNode.java,b\5\b56688139ea493f1c26676d15a03e46601a2fc5e
+]
+-apr2023/apr052023/MinimizeMaximumOfArray.java,f\9\f97afc8797d29659c034c55e814a4c8da8aff3a4
+X
+(apr2023/apr052023/ReverseLinkedList.java,f\e\fe7a33bb79e66c791fca3cca0e52794c75d2082c
+O
+apr2023/apr032023/TreeNode.java,2\9\292b9f2ed50bcb4a160f7faa2a7b91e840f3afa5
