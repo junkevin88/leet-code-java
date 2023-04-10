@@ -157,3 +157,13 @@ S
 #apr2023/apr062023/Permutations.java,5\9\594987554045af084d82f72a9671a02df5f8460e
 Z
 *apr2023/apr052023/MergeTwoSortedLists.java,2\b\2b11bca7fb337463d8167da2dde95ec0f1b3392b
+S
+#apr2023/apr062023/Combinations.java,5\c\5c44b70d30d4a2e3e44329970a5a4e622c6c1b54
+W
+'apr2023/apr072023/NumberOfEnclaves.java,3\9\3916bebafd5d872b3f9774baf6d1a393cdf2a809
+\
+,apr2023/apr062023/LetterCasePermutation.java,d\2\d2f4ccf57920979b3e3f2a14c4d8e166ac1efe93
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
