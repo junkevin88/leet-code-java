@@ -1,4 +1,4 @@
-package may2023.may0720223;
+package may2023.may072023;
 
 public class FindTheLongestValidObstacleCourseAtEachPosition {
     public int[] longestObstacleCourseAtEachPosition(int[] obstacles) {
